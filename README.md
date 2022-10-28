@@ -1,5 +1,5 @@
 
- <div size='20px'> LenovoTB-X505X-L1 CDM
+ <div size='20px'> LenovoTB-X505X-L1 CDM !IMPORTANT! I'm not the author of this code - I just saved it for the futher digging in it
 </div>
 
 
